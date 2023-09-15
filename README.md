@@ -1,6 +1,11 @@
 # Supervised-ML
 Credit Risk Analysis Report
-1. Explain the purpose of this assignment?
+![image](https://github.com/nasr9000/Supervised-ML/assets/128746625/83ecc03a-1fd3-49fe-97cc-df24967b5514)
+![image](https://github.com/nasr9000/Supervised-ML/assets/128746625/31a7b32c-e2e2-4f64-9fae-08c84cb2bd8f)
+
+
+
+1. Explain the purpose of this assignment
    
    The purpose of this assignment was for us to create and evaluate the accuracy of data models that allow us to evaluate the worthiness of potential borrowers from lending services.
 
@@ -10,15 +15,16 @@ Credit Risk Analysis Report
 
    Model 1
    
-   1. Balanced Accuracy Score: %95.44 ---> This is taking account of the true positive and negative rate of the model. This is the balanced accuracy score.
-   2. Precision Score: %0.92 ---> This result indicates that %92 of predicted positive values were correct
-   3. Recall Score: %0.95 ---> This means that the model was 95% precise in measuring true positive values out of all positive predictions made.
+   . Balanced Accuracy Score: %95.44 ---> This is taking account of the true positive and negative rate of the model. This is the balanced accuracy score.
+   . Precision Score: %0.92 ---> This result indicates that %92 of predicted positive values were correct
+   . Recall Score: %0.95 ---> This means that the model was 95% precise in measuring true positive values out of all positive predictions made.
   
    Model 2
    
- 1. Balanced Accuracy Score: %100 ---> This is taking account of the true positive and negative rate of the model. This is the balanced accuracy score %100.
- 2. Precision Score: %100 --->  This result indicates that %100 of predicted positive values were correct
- 3. Recall Score: %100 ---> This means that the model was 100% precise in measuring true positive values out of all positive predictions made.
+ . Balanced Accuracy Score: %100 ---> This is taking account of the true positive and negative rate of the model. This is the balanced accuracy score %100.
+ . Precision Score: %100 --->  This result indicates that %100 of predicted positive values were correct
+ . Recall Score: %100 ---> This means that the model was 100% precise in measuring true positive values out of all positive predictions made.
 
-Recommendations
+Recommendations:
+
 I would recommend using Model 2 to predict the creditworthiness of borrowers because it has at least 99% accuracy in predicting the outcome of the repayment of the initial loan. That accuracy range could be easily utilized for a risk portfolio to ensure sufficient capital flow for the lenders to remain in business/make a profit. It has demonstrated the least amount of error and therefore we can move forward as this is our most accurate option. 
