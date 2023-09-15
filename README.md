@@ -3,14 +3,15 @@
 
 Credit Risk Analysis Report
 
- Explain the purpose of this assignment
+Explain the purpose of this assignment
 
 The purpose of this assignment was for us to create and evaluate the accuracy of data models that allow us to evaluate the worthiness of potential borrowers from lending services.
 
 
 Data 
 
-The data that we decided to use here is a list of various different business entities and their credit risk/lending risk data. Some of these variables included in this are interest_rate, loan_size, debt_to_income, total_debt, and borrower_income. We have used these variables along with the remaining in this dataset to create two different models that allow us to compare which yielded the best results for our lending services. 
+The data that we decided to use here is a list of various different business entities and their credit risk/lending risk data. Some of these variables included in this are interest_rate, loan_size, debt_to_income, total_debt, and borrower_income. We have used these variables along with the remaining in this dataset to create two different models that allow us to compare which yielded the best results for our lending services. we used logistic regression models for our x_train and y_train variables for our training data. For our fitted model we used the X_test 
+
 
 Using a bulleted list, describe the accuracy score, the precision score, and recall score of the machine learning model.
 
