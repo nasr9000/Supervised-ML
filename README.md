@@ -14,13 +14,14 @@ The data that we decided to use here is a list of various different business ent
 
 Using a bulleted list, describe the accuracy score, the precision score, and recall score of the machine learning model.
 
-   Model 1
+Model 1
    
 1. Balanced Accuracy Score: %95.44 ---> This is taking account of the true positive and negative rate of the model. This is the balanced accuracy score.
 2. Precision Score: %0.92 ---> This result indicates that %92 of predicted positive values were correct
 3. Recall Score: %0.95 ---> This means that the model was 95% precise in measuring true positive values out of all positive predictions made.
   
-   Model 2
+
+Model 2
    
 4. Balanced Accuracy Score: %100 ---> This is taking account of the true positive and negative rate of the model. This is the balanced accuracy score %100.
 5. Precision Score: %100 --->  This result indicates that %100 of predicted positive values were correct
