@@ -1,6 +1,7 @@
 # Supervised-ML
-Credit Risk Analysis Report
 ![image](https://github.com/nasr9000/Supervised-ML/assets/128746625/83ecc03a-1fd3-49fe-97cc-df24967b5514)
+
+Credit Risk Analysis Report
 
  Explain the purpose of this assignment
 
