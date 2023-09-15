@@ -2,26 +2,28 @@
 Credit Risk Analysis Report
 ![image](https://github.com/nasr9000/Supervised-ML/assets/128746625/83ecc03a-1fd3-49fe-97cc-df24967b5514)
 
+ Explain the purpose of this assignment
 
-1. Explain the purpose of this assignment
-   
-   The purpose of this assignment was for us to create and evaluate the accuracy of data models that allow us to evaluate the worthiness of potential borrowers from lending services.
+The purpose of this assignment was for us to create and evaluate the accuracy of data models that allow us to evaluate the worthiness of potential borrowers from lending services.
 
-2. Data: The data that we decided to use here is a list of various different business entities and their credit risk/lending risk data. Some of these variables included in this are interest_rate, loan_size, debt_to_income, total_debt, and borrower_income. We have used these variables along with the remaining in this dataset to create two different models that allow us to compare which yielded the best results for our lending services. 
 
-3. Using a bulleted list, describe the accuracy score, the precision score, and recall score of the machine learning model.
+Data 
+
+The data that we decided to use here is a list of various different business entities and their credit risk/lending risk data. Some of these variables included in this are interest_rate, loan_size, debt_to_income, total_debt, and borrower_income. We have used these variables along with the remaining in this dataset to create two different models that allow us to compare which yielded the best results for our lending services. 
+
+Using a bulleted list, describe the accuracy score, the precision score, and recall score of the machine learning model.
 
    Model 1
    
-   . Balanced Accuracy Score: %95.44 ---> This is taking account of the true positive and negative rate of the model. This is the balanced accuracy score.
-   . Precision Score: %0.92 ---> This result indicates that %92 of predicted positive values were correct
-   . Recall Score: %0.95 ---> This means that the model was 95% precise in measuring true positive values out of all positive predictions made.
+1. Balanced Accuracy Score: %95.44 ---> This is taking account of the true positive and negative rate of the model. This is the balanced accuracy score.
+2. Precision Score: %0.92 ---> This result indicates that %92 of predicted positive values were correct
+3. Recall Score: %0.95 ---> This means that the model was 95% precise in measuring true positive values out of all positive predictions made.
   
    Model 2
    
- . Balanced Accuracy Score: %100 ---> This is taking account of the true positive and negative rate of the model. This is the balanced accuracy score %100.
- . Precision Score: %100 --->  This result indicates that %100 of predicted positive values were correct
- . Recall Score: %100 ---> This means that the model was 100% precise in measuring true positive values out of all positive predictions made.
+4. Balanced Accuracy Score: %100 ---> This is taking account of the true positive and negative rate of the model. This is the balanced accuracy score %100.
+5. Precision Score: %100 --->  This result indicates that %100 of predicted positive values were correct
+6. Recall Score: %100 ---> This means that the model was 100% precise in measuring true positive values out of all positive predictions made.
 
 Recommendations:
 
